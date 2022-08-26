@@ -1,0 +1,27 @@
+.heading
+{
+    font-size: 30px;
+    width: 100%;
+    margin-top: 0%;
+}
+body
+{
+    text-align: center;
+    background-image: url("object detection.jpg");
+}
+#note
+{
+    font-size: 15px;
+}
+#object_name
+{
+    width:500px;
+    margin: 20px;
+}
+canvas
+{
+    border: 2px solid rgb(66, 135, 245);
+    margin-top: 70px;
+    margin-bottom: 20px;
+    box-shadow: 20px 5px 25px whitesmoke;
+}
